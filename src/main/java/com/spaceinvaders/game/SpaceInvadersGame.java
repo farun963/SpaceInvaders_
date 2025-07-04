@@ -499,7 +499,7 @@ public final class SpaceInvadersGame {
     /**
      * Método principal para ejecutar el juego
      */
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         try {
             SpaceInvadersGame game = new SpaceInvadersGame();
             game.startGame();
